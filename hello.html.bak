@@ -26,7 +26,14 @@
 		<!-- RECOMPENSES -->
 		<div >
 			<h1> RECOMPENSES</h1>
-			<p>En construction</p>
+			<p><img src="images\image.jpeg"></p>
+		</div>
+		
+		<!-- Mon gist -->
+		<div >
+			<h1> MON GIST</h1>
+			<p><script src="https://gist.github.com/HermannKIPRE/ac2bb61eb2fb5400f51624c85711218d.js"></script></p>
+		
 		</div>
 		
 	
